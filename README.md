@@ -1,23 +1,26 @@
 <h1 align="center">Hello 👋, I'm Tugdual</h1>
-<h3 align="center">A Computer Engineering student looking for a job opportunity, starting Sept 2023</h3>
+<h3 align="center">A Computer Engineering student looking for a job opportunity starting Sept 2023</h3>
 
 - 🔭 I’m currently working on **Digital Transformation with Shark Helmets**
 
-- 🌱 I’m currently learning on **https://www.freecodecamp.org/**
+- 🌱 I’m currently learning **on https://www.freecodecamp.org/**
 
-- 👨‍💻 Some of my projects are available on [my Portfolio](https://tugdual-harel.github.io/Dopefolio/)
+- 👨‍💻 Some of my projects are available at [https://tugdual-harel.github.io/Dopefolio/](https://tugdual-harel.github.io/Dopefolio/)
 
 - 📫 How to reach me **harel.tugdual@gmail.com**
 
-- 📄 Know about my experiences ▶ [My resume](https://tugdualharel.notion.site/Tugdual-Harel-5136efac73bf4e04b9cc15f78050f1e6)
+- 📄 Know about my experiences [https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d](https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d)
 
-- ⚡ Fun fact : **I already have 5 years of experience thanks to my apprenticeship**
+- ⚡ Fun fact **I already have 5 years of experience thanks to my apprenticeship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tugdualharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tugdualharel" height="30" width="40" /></a>
 <a href="https://twitter.com/tugdualharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tugdualharel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tugdual-harel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugdual-harel" height="30" width="40" /></a>
+<a href="https://instagram.com/tugdual_harel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tugdual_harel" height="30" width="40" /></a>
+<a href="https://medium.com/@tugdual_harel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tugdual_harel" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tugdualharel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tugdualharel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
