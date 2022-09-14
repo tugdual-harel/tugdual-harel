@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Digital Transformation with Shark Helmets**
 
-- 🌱 I’m currently learning **on https://www.freecodecamp.org/**
+- 🌱 I’m currently learning on **https://www.freecodecamp.org/**
 
-- 👨‍💻 Some of my projects are available at [https://tugdual-harel.github.io/Dopefolio/](https://tugdual-harel.github.io/Dopefolio/)
+- 👨‍💻 Some of my projects are available on [my Portfolio](https://tugdual-harel.github.io/Dopefolio/)
 
 - 📫 How to reach me **harel.tugdual@gmail.com**
 
-- 📄 Know about my experiences [https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d](https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d)
+- 📄 Know about my experiences ▶ [My resume](https://tugdualharel.notion.site/Tugdual-Harel-5136efac73bf4e04b9cc15f78050f1e6)
 
-- ⚡ Fun fact **I already have 5 years of experience thanks to my apprenticeship**
+- ⚡ Fun fact : **I already have 5 years of experience thanks to my apprenticeship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
