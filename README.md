@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tugdual</h1>
-<h3 align="center">A Computer Engineering student looking for an opportunity from Sept 2023</h3>
+<h3 align="center">A Computer Engineering student looking for a job opportunity, starting Sept 2023</h3>
 
 - 🔭 I’m currently working on **Digital Transformation with Shark Helmets**
 
