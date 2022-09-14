@@ -1,6 +1,18 @@
 <h1 align="center">Hello 👋, I'm Tugdual</h1>
 <h3 align="center">A Computer Engineering student looking for an opportunity from Sept 2023</h3>
 
+- 🔭 I’m currently working on **Digital Transformation with Shark Helmets**
+
+- 🌱 I’m currently learning **on https://www.freecodecamp.org/**
+
+- 👨‍💻 Some of my projects are available at [https://tugdual-harel.github.io/Dopefolio/](https://tugdual-harel.github.io/Dopefolio/)
+
+- 📫 How to reach me **harel.tugdual@gmail.com**
+
+- 📄 Know about my experiences [https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d](https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d)
+
+- ⚡ Fun fact **I already have 5 years of experience thanks to my apprenticeship**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tugdualharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tugdualharel" height="30" width="40" /></a>
@@ -14,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugdual-harel&show_icons=true&locale=en&layout=compact" alt="tugdual-harel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tugdual-harel&show_icons=true&locale=en" alt="tugdual-harel" /></p>
-
-
