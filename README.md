@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tugdual</h1>
 <h3 align="center">A Computer Engineering student looking for a job opportunity starting Sept 2023</h3>
 
-- 🔭 I’m currently working on **Digital Transformation with Shark Helmets**
+- 🔭 I’m currently working on **Digital Transformation with Shark Helmets** and **WMS Migration** within 2Ride
 
 - 🌱 I’m currently learning **on https://www.freecodecamp.org/**
 
