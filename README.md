@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on **Digital Transformation** with Shark Helmets and **WMS Migration** within 2Ride
 
-- 🌱 I’m currently learning **on https://www.freecodecamp.org/**
-
 - 👨‍💻 Some of my projects are available at [https://tugdual-harel.github.io/Dopefolio/](https://tugdual-harel.github.io/Dopefolio/)
 
-- 📫 How to reach me **harel.tugdual@gmail.com**
+- 🔗 [My Bento](https://bento.me/tugdual)
+
+- 📫 How to reach me **harel.tugdual\@gmail.com**
 
 - 📄 Know about my experiences [https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d](https://tugdualharel.notion.site/Tugdual-Harel-2b7f5833da6a4c1789fb28540b10953d)
+
+- 🌱 I’m currently learning **on https://www.freecodecamp.org/**
 
 - ⚡ Fun fact **I already have 5 years of experience thanks to my apprenticeship**
 
